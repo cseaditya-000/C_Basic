@@ -3,7 +3,7 @@
 int main()
 {
     int a = 0;
-    int d = 45;
+    int d = 45;//Ramdomize it
     while (a != d)
     {
         printf("Guess the number: ");
